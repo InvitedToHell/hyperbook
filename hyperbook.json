@@ -11,12 +11,12 @@
     "body": "/fonts/Montserrat-VariableFont_wght.ttf",
     "code": "/fonts/FiraCode-Regular.woff2"
   },
+   "colors": {
+    "brand": "#dcd0ff",
+    "brandDark": "#967bb6",
+    "brandText": "#967bb6"
+  },
   "basePath": "/hyperbook",
   "language": "de",
   "repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main"
-  "colors": {
-   "brand": "#dcd0ff",
-   "brandDark": "#967bb6",
-   "brandText": "#967bb6"
-  },
 }
