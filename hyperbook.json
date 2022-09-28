@@ -13,10 +13,10 @@
   },
   "basePath": "/hyperbook",
   "language": "de",
-  "repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main",
+  "repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main"
   "color": {
    "brand": "#dcd0ff",
    "brandDark": "#967bb6",
    "brandText": "#967bb6"
-  }
+  },
 }
