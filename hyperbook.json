@@ -1,0 +1,12 @@
+{
+  "name": "CosmeticsMod Team Guide",
+  "version": "0.0.0",
+  "description": "CosmeticsMod Guide",
+  "author": {
+    "name": "CosmeticsMod",
+    "url": "https://cosmeticsmod.com/"
+  },
+  "language": "de"
+   "basePath": "/CosmeticsModGuide",
+	"repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main"
+}
