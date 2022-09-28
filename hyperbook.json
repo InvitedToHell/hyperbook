@@ -6,7 +6,12 @@
     "name": "CosmeticsMod",
     "url": "https://cosmeticsmod.com/"
   },
-  "language": "de"
+   "fonts": {
+    "heading": "/fonts/Montserrat-VariableFont_wght.ttf",
+    "body": "/fonts/Montserrat-VariableFont_wght.ttf",
+    "code": "/fonts/FiraCode-Regular.woff2"
+  },
+  "language": "de",
    "basePath": "/CosmeticsModGuide",
 	"repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main"
 }
