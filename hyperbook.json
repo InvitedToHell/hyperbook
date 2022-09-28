@@ -11,7 +11,7 @@
     "body": "/fonts/Montserrat-VariableFont_wght.ttf",
     "code": "/fonts/FiraCode-Regular.woff2"
   },
-  "basePath": "/hyperbook"
+  "basePath": "/hyperbook",
   "language": "de",
   "repo": "https://github.com/InvitedToHell/CosmeticsModGuide/edit/main"
 }
